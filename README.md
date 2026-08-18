@@ -2,7 +2,7 @@
 
 > Intent-driven swap execution on Stellar Testnet. Users describe outcomes; the Soroban contract engine calculates optimal paths across Soroswap, Phoenix AMM, and Stellar SDEX — with MEV protection and real-time event streaming.
 
-[![CI Status](https://github.com/ElonCoding/DIFI-Router/actions/workflows/ci.yml/badge.svg)](https://github.com/ElonCoding/DIFI-Router/actions/workflows/ci.yml)
+[![CI Status](https://github.com/ElonCoding/DIFI-Router/actions/workflows/ci.yml/badge.svg)](https://github.com/sharmaraju304-beep/DIFI-Router/actions/workflows/ci.yml)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![Soroban](https://img.shields.io/badge/Soroban-Rust-orange)
 ![Vitest](https://img.shields.io/badge/Vitest-passing-brightgreen)
